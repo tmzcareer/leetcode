@@ -18,10 +18,10 @@
         * 二维数组保存重叠子问题
         * Code - `dp` O(n)       
 * LeetCode problems
-    *  [300. Longest Increasing Subsequence](http://weibo.com/ihubo)
-    *  [416. Partition Equal Subset Sum](http://weibo.com/ihubo)
-    *  [474. Ones and Zeroes](http://weibo.com/ihubo)
-    *  [688. next time](http://weibo.com/ihubo)
-    *  [70. next time](http://weibo.com/ihubo)
+    *  [300. Longest Increasing Subsequence](https://github.com/tmzcareer/leetcode/blob/master/dp/dp.py)
+    *  [416. Partition Equal Subset Sum](https://github.com/tmzcareer/leetcode/blob/master/dp/dp.py)
+    *  [474. Ones and Zeroes](https://github.com/tmzcareer/leetcode/blob/master/dp/dp.py)
+    *  [688. next time](https://github.com/tmzcareer/leetcode/blob/master/dp/dp.py)
+    *  [70. next time](https://github.com/tmzcareer/leetcode/blob/master/dp/dp.py)
 ***
 ***
