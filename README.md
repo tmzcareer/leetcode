@@ -19,6 +19,9 @@
         * Code - `dp` O(n)       
 * LeetCode problems
     *  [300. Longest Increasing Subsequence](http://weibo.com/ihubo)
-    *  
+    *  [416. Partition Equal Subset Sum](http://weibo.com/ihubo)
+    *  [474. Ones and Zeroes](http://weibo.com/ihubo)
+    *  [688. next time](http://weibo.com/ihubo)
+    *  [70. next time](http://weibo.com/ihubo)
 ***
-
+***
