@@ -6,7 +6,7 @@
      * `递归方程`（选或不选）
 
 
-* [LeetCode problems.py](https://github.com/tmzcareer/leetcode/blob/master/dp/dp.py)
+* [LeetCode problems.py](https://github.com/tmzcareer/leetcode/blob/master/dp.py)
     *  [70. Climbing Stairs (Fibonacci Sequence)](https://leetcode.com/problems/climbing-stairs/)
     *  [Problem1. Non-adjacent max-sum](https://www.youtube.com/watch?v=Jakbj4vaIbE)
     *  [Problem2. N-sum](https://www.youtube.com/watch?v=Jakbj4vaIbE)
