@@ -1,6 +1,6 @@
 # 题型分类
 ## dp
-* 思路: recursion+memorization = dp
+* 思路: recursion+memorization(top-down) = dp(bottom-up)
      * `数组保存overlap sub-problem:` (选好index可以减少coner case，ndarry和list都可以）
      * `递归出口`（也就是dp的初始化）
      * `递归方程`（选或不选）
